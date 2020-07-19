@@ -2,7 +2,10 @@
 
 A satisfying project made using basic CSS, HTML and libraries of javascrip.
 
-Libraries Used: 
-Paper.js - for animations
-howler.js - for sound effects
+**Libraries Used:** 
 
+- **Paper.js** - for animations
+
+- **howler.js** - for sound effects
+
+Have Fun : https://chetankarwa.github.io/MusicKeys/
